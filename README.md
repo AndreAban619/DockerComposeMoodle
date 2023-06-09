@@ -8,13 +8,8 @@ Proyecto Final Despliegue de un Sistema con Docker.Equipo2
 
 - Instalación con docker-compose 
 
-## Usuarios y Contraseñas que se deben cambiar en el archivo docker-compose.yml
-   
-   - MARIADB_USER=bn_moodle
-   - MARIADB_PASSWORD=mypassword
-    
-    - MOODLE_DATABASE_USER=bn_moodle
-    - MOODLE_DATABASE_PASSWORD=mypassword
+
+
 
 
 ### Correr localmente usando docker.
