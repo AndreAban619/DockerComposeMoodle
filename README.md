@@ -48,30 +48,30 @@ Proyecto Final Despliegue de un Sistema con Docker.Equipo2
 
 - Press Log In button.
 
-![Moodle-Screen02](img/imagen2.png)
+![Moodle-Screen02](img/Imagen2.png)
 
 # Paso 3) Vamos a my courses 
 
 - click en el botón create course.
 
-![Moodle-Screen03](img/imagen3.png)
+![Moodle-Screen03](img/Imagen3.png)
 
 # Paso 4) Rellenamos el formulario, en este caso se llama "Curso 1".
 
-![Moodle-Screen04](img/imagen4.png)
+![Moodle-Screen04](img/Imagen4.png)
 
 # Paso 5) Le damos click a save and display.
 
-![Moodle-Screen05](img/imagen5.png)
+![Moodle-Screen05](img/Imagen5.png)
 
 # Como podemos observar nuestro curso ya esta publicado.
 
-![Moodle-Screen06](img/imagen6.png)
+![Moodle-Screen06](img/Imagen6.png)
 
 # Desde la pestaña de home se observa asi.
 - Como se puede observar le añadimos una descripción acompañada de una imagen y tambien una imagen representativa del curso.
 
-![Moodle-Screen07](img/imagen7.png)
+![Moodle-Screen07](img/Imagen7.png)
 
 
 
