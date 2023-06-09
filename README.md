@@ -42,7 +42,7 @@ Proyecto Final Despliegue de un Sistema con Docker.Equipo2
 - contraseña = bitnami
 
 
-![Moodle-Screen01](img/imagen1.png)
+![Moodle-Screen01](DockerComposeMoodle/img/imagen1.png)
 
 # Paso 2)Login Moodle. 
 
